@@ -24,3 +24,16 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated local archives / previews
+*.zip
+launcher_icon_preview.png
+
+# Release signing - never commit
+*.jks
+*.keystore
+keystore.properties
+
+# Android release outputs
+app/release/
+app/debug/
