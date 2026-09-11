@@ -37,3 +37,6 @@ keystore.properties
 # Android release outputs
 app/release/
 app/debug/
+
+*.hprof
+java_pid*.hprof
